@@ -1,0 +1,15 @@
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010498_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010492_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201175384_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010490_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010504_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010496_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010484_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010509_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010493_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010489_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010499_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010507_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010514_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010485_20180205.pdf Send Successfully.
+2018_04_10 | D:\Resource\java\workplace\MailSendWithThreadAndTimeBreak\attachment\\201010483_20180205.pdf Send Successfully.

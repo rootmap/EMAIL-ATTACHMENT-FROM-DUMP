@@ -82,12 +82,12 @@ public class ProcessorService {
 			ArrayList sourceFilesNames;
 			//System.out.println("Process Excute Process In Try With MNA");
 			sourceFiles=mna.getSource();
-			//System.out.println("Process Excute Process In sourceFiles");
+			
 			if(sourceFiles.size()>0)
 			{
-				
-				
 				sourceFilesNames=mna.getSourceFileContent(sourceFiles);
+				//System.out.println("Source Files "+sourceFilesNames);
+				//System.exit(1);
 				if(sourceFilesNames.size()>0)
 				{
 					//System.out.println("Process Excute Process In sourceFiles Nnew Ext");
@@ -104,11 +104,15 @@ public class ProcessorService {
 							queue // the queue to use
 					);
 					
+					//System.out.println(sourceFilesNames);
+					//System.exit(1);
 					int fileQue=0;
 					while(sourceFilesNames.size() > fileQue)
 					{
 						log.WriteInfo("Mail Looping Queue Starting : "+fileQue);
 						String sourceFileName = sourceFilesNames.get(fileQue)+"";
+						
+						//System.exit(1);
 						executor.execute(ProcessEmailNDAttachment(sourceFileName));
 						fileQue++;
 					}
